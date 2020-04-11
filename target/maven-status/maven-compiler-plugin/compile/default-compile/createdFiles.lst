@@ -1,0 +1,5 @@
+org\example\config\WebConfig.class
+org\example\config\service\DemoServiceImpl.class
+org\example\config\service\DemoService.class
+org\example\config\WebAppInitializer.class
+org\example\config\controller\DemoController.class
